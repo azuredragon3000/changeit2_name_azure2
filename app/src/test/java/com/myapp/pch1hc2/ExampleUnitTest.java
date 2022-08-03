@@ -1,4 +1,4 @@
-package com.myapp.pch1hc2;
+package com.myapp.azure2;
 
 import org.junit.Test;
 

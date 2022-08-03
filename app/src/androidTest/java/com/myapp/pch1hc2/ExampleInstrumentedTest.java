@@ -1,4 +1,4 @@
-package com.myapp.pch1hc2;
+package com.myapp.azure2;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.myapp.pch1hc2", appContext.getPackageName());
+        assertEquals("com.myapp.azure2", appContext.getPackageName());
     }
 }

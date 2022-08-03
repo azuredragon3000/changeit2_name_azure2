@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
     }
 }
-rootProject.name = "pch1hc2"
+rootProject.name = "azure2"
 include ':app'
