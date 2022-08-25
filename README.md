@@ -1,7 +1,25 @@
+Screenshot_20220722_150147.png  
+<img src="https://github.com/azuredragon3000/googleconsole_hatgiong_azure2/blob/master/Screenshot_20220722_150147.png" />   
+Screenshot_20220722_150358.png  
+<img src="https://github.com/azuredragon3000/googleconsole_hatgiong_azure2/blob/master/Screenshot_20220722_150358.png" />   
+Screenshot_20220722_150424.png  
+<img src="https://github.com/azuredragon3000/googleconsole_hatgiong_azure2/blob/master/Screenshot_20220722_150424.png" />   
+Screenshot_20220804_004747.png  
+<img src="https://github.com/azuredragon3000/googleconsole_hatgiong_azure2/blob/master/Screenshot_20220804_004747.png" />   
+Screenshot_20220804_004808.png  
+<img src="https://github.com/azuredragon3000/googleconsole_hatgiong_azure2/blob/master/Screenshot_20220804_004808.png" />   
+Screenshot_20220804_004837.png  
+<img src="https://github.com/azuredragon3000/googleconsole_hatgiong_azure2/blob/master/Screenshot_20220804_004837.png" />   
+app/src/main/ic_launcher-playstore.png  
+<img src="https://github.com/azuredragon3000/googleconsole_hatgiong_azure2/blob/master/app/src/main/ic_launcher-playstore.png" />   
+app/src/main/res/drawable-v24  
+<img src="https://github.com/azuredragon3000/googleconsole_hatgiong_azure2/blob/master/app/src/main/res/drawable-v24" />   
 app/src/main/res/drawable-v24/custom_background.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_hatgiong_azure2/blob/master/app/src/main/res/drawable-v24/custom_background.xml" />   
 app/src/main/res/drawable-v24/ic_launcher_foreground.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_hatgiong_azure2/blob/master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />   
+app/src/main/res/drawable  
+<img src="https://github.com/azuredragon3000/googleconsole_hatgiong_azure2/blob/master/app/src/main/res/drawable" />   
 app/src/main/res/drawable/hatgiongtamhon.png  
 <img src="https://github.com/azuredragon3000/googleconsole_hatgiong_azure2/blob/master/app/src/main/res/drawable/hatgiongtamhon.png" />   
 app/src/main/res/drawable/ic_launcher_background.xml  
